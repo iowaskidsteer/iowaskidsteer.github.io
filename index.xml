@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Red Dirt Land Services</title>
-    <link>https://iowaskidsteer.github.io/</link>
+    <link>/</link>
     <description>Recent content in Home on Red Dirt Land Services</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>iowaskidsteer@gmail.com (Jeff Grim)</managingEditor>
     <webMaster>iowaskidsteer@gmail.com (Jeff Grim)</webMaster>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://iowaskidsteer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
